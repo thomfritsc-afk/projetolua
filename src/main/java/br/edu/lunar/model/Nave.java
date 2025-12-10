@@ -1,0 +1,1 @@
+public abstract class Nave implements java.io.Serializable {}

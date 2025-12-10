@@ -1,0 +1,1 @@
+public class Astronauta implements java.io.Serializable {}
