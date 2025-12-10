@@ -1,1 +1,0 @@
-public class Missao implements java.io.Serializable {}
